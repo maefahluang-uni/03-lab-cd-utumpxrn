@@ -1,7 +1,7 @@
 Continuous Deployment
 =====================
 
-This lab will explore how to build a docker image and deploy it to the Google Cloud with Cloud Build. The docker container will be executed on Cloud Run.
+This lab will explore how to build a docker image and deploy it to the Google Cloud with Cloud Build. The docker container will be executed on Cloud Run...
 
  # Setting up
 
